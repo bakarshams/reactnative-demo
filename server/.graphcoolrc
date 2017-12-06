@@ -1,0 +1,3 @@
+targets:
+  production: shared-eu-west-1/cjab2z8t00op50136ek87b8tg
+  default: production
